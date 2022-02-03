@@ -26,10 +26,10 @@ F-Lab의 스터디 진행 템플릿입니다. 스터디 방식에 따라 이 템
 - 스터디 방식 선정
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 ### 1주차 
-- 발표자명: [챕터1 - 챕터명](chapter1/chapter1.md)
-- 발표자명: [챕터2 - 챕터명](chapter2/chapter2.md)
+- 발표자명: [챕터1 - 챕터명](chapter1/README.md)
+- 발표자명: [챕터2 - 챕터명](chapter2/README.md)
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 ### 2주차
-- 발표자명: [챕터3 - 챕터명](chapter3/chapter3.md)
+- 발표자명: [챕터3 - 챕터명](chapter3/README.md)
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 
