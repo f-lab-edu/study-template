@@ -8,7 +8,8 @@ F-Lab의 스터디 진행 템플릿입니다. 스터디 방식에 따라 이 템
 - [팀원명3](https://github.com/f-lab-dev)
 
 ## 스터디 시간 및 장소
-- 시간 : 2022년 2월 6일 ~ 2019년 3월 27일, 매주 일요일 오후 4시에서 6시, 총 8주
+- 기간 : 2022년 2월 6일 ~ 2019년 3월 27일, 총 8주
+- 시간 : 매주 일요일 오후 4시에서 6시
 - 장소 : [F-Lab 커뮤니티 공간](http://naver.me/FlJcBZZe)
 
 ## 스터디 방법
@@ -25,10 +26,10 @@ F-Lab의 스터디 진행 템플릿입니다. 스터디 방식에 따라 이 템
 - 스터디 방식 선정
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 ### 1주차 
-- [챕터1 - 챕터명](chapter1/chapter1.md) : 발표자명
-- [챕터2 - 챕터명](chapter2/chapter2.md) : 발표자명
+- 발표자명: [챕터1 - 챕터명](chapter1/chapter1.md)
+- 발표자명: [챕터2 - 챕터명](chapter2/chapter2.md)
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 ### 2주차
-- [챕터3 - 챕터명](chapter3/chapter3.md) : 발표자명
+- 발표자명: [챕터3 - 챕터명](chapter3/chapter3.md)
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
 
